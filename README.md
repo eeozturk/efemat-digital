@@ -66,4 +66,4 @@ EFEMAT was developed through an AI-assisted software development workflow, combi
 
 ---
 
-*This repository is a public portfolio showcase. The application's proprietary source code, copyrighted book content, credentials, and production configuration are not included.*
+**This repository serves as a public portfolio showcase for EFEMAT. The application's source code and copyrighted educational content are kept private.**
