@@ -44,9 +44,21 @@ I worked on the product from concept to release, including:
 
 EFEMAT was developed through an AI-assisted software development workflow, combining iterative implementation, automated testing, and real-world product deployment.
 
+
 ## Screenshots
 
-Real application screenshots will be added here to showcase the student experience, interactive exercises, and teacher dashboard.
+### Student Dashboard
+
+![EFEMAT Student Dashboard](screenshots/student-dashboard.png)
+
+### Interactive Mathematics Exercises
+
+![EFEMAT Interactive Exercise](screenshots/interactive-exercise.png)
+
+### Teacher Dashboard and Assignments
+
+![EFEMAT Teacher Dashboard](screenshots/teacher-dashboard.png)
+  
 
 ## Website
 
